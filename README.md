@@ -45,3 +45,24 @@
 - Не используйте собственные сетевые команды Foundation для отправки push-уведомлений. Apple будет рассматривать это как атаку отказа в обслуживании из-за повторяющегося открытия и закрытия соединений.
 - Есть много вариантов построения вашего push-сервера. Выберите те, которые лучше всего подходят для вашего набора навыков.
 - [example](https://github.com/egorskikh/IOS-PushNotifications/tree/main/Chapter%206)
+
+## Chapter 7: 
+### Key points
+
+## Chapter 8: 
+### Key points
+
+## Chapter 9: 
+### Key points
+
+## Chapter 10: 
+### Key points
+
+## Chapter 11: 
+### Key points
+
+## Chapter 12: 
+### Key points
+
+## Chapter 13: Local Notifications
+### Key points
